@@ -1,4 +1,4 @@
-package org.rain.openapp;
+package org.rain.openapp.mBoard.controller;
 
 import java.util.List;
 
