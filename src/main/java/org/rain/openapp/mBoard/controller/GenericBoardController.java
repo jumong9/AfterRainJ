@@ -11,6 +11,7 @@ public abstract class GenericBoardController<T> {
 	public List<T>  list(){
 		List<T> list = null;
 		System.out.println("generic list return");
+		System.out.println("aaaaaaaaaaaaa");
 		return  list;
 	}
 }

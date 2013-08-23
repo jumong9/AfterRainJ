@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-bboard list2
+getimg jsp
 </body>
 </html>
