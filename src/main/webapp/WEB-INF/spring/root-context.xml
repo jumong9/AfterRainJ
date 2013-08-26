@@ -8,5 +8,9 @@
 	<bean id="dataSource" class="org.springframework.jndi.JndiObjectFactoryBean">
         <property name="jndiName" value="java:/comp/env/jdbc/afterrainDS" />
     </bean>
-		
+	
+	<bean id="dataSourceWolf" class="org.springframework.jndi.JndiObjectFactoryBean">
+        <property name="jndiName" value="java:/comp/env/jdbc/wolfspringDS" />
+    </bean>
+    	
 </beans>
